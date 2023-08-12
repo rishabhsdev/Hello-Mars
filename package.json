@@ -1,0 +1,14 @@
+{
+  "name": "rover-photo-fetcher",
+  "version": "1.0.0",
+  "description": "Fetch and display Mars rover photos",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.24.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
