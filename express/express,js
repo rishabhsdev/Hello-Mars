@@ -1,1 +1,10 @@
-config file
+const express = require ("express");
+
+app.set("view engine", "ejs");
+app.set("views", "views");
+
+app.get("/", (req, res, next) => {
+  res.render("index");
+});
+
+app.listen(3000);
