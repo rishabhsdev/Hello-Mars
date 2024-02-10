@@ -9,4 +9,4 @@ I was always amazed by NASA's public API, so I created this hobby project to tes
 This code uses Insight rover API to fetch data from Mars.
 
 Update:
-Insight rover has stopped sending data, so currently working on new API for the project. -> **curiosity API**
+Insight rover has stopped sending data, so currently working on new API for the project. -> [**curiosity API**](https://github.com/rishabhsdev/Hello-Mars/blob/main/curiosityAPI/CuriosityAPI.java)
